@@ -7,5 +7,5 @@ name: link:\
  { "firstName":"Shiba", "lastName":"Paudel","cityName":"Biratnagar"},\
  { "firstName":"Rahul", "lastName":"Reddy","cityName":"New Delhi"},\
  { "firstName":"Peter", "lastName":"Lara","cityName":"Trinidad"}\
-]}\
+]}
 
