@@ -17,7 +17,7 @@ import os.path
 from os import path
 import boto3
 
-
+# https://github.com/cfdevops3784/mocovaxfinder.git
 def lambda_handler(event=0, context=0):
     url = "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.json?vaccineinf"
     # https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns
